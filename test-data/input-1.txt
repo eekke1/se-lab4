@@ -1,3 +1,5 @@
 # Create a ship that always fail to fired
-GT4500,10,1.0,10,1.0
-TORPEDO,ALL # should report failure
+GT4500,1,0,1,0
+TORPEDO,SINGLE # should succeed
+TORPEDO,SINGLE # should succeed
+TORPEDO,SINGLE # should fail

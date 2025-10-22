@@ -1,4 +1,4 @@
 # Create a ship with a tube that always fails, and with one that never does.
 GT4500,2,0.0,1,1.0
 TORPEDO,SINGLE # should succeed
-TORPEDO,SINGLE # should fail
+TORPEDO,SINGLE # should fail 
